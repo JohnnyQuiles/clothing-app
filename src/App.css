@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
 .App {
   background-color: #fffcf2;
   display: flex;
@@ -10,12 +12,18 @@
   height: 40vmin;
   pointer-events: none;
 }
+
 .App-header {
   color: black;
+  font-family: 'Bungee', cursive;
+}
+
+.App-para {
+  color: black;
+  font-family: 'Bungee', cursive;
+  font-size: 12px;
 }
 
 .App-link {
   color: #61dafb;
 }
-
-
